@@ -4,7 +4,7 @@
 This project focuses on leveraging Artificial Intelligence to improve landmine detection methods. By employing machine learning algorithms, we aim to accurately classify landmine types, enhancing the safety and efficiency of defusing operations.
 
 ## Video Demonstration
-[Watch our project demonstration](Insert-Video-Link-Here)
+[Watch our project demonstration](https://www.youtube.com/watch?v=Ye0ZUjLbPzs)
 
 ## Team Members
 - Mohammad Afiq Iz’aan bin Mohd Ali
